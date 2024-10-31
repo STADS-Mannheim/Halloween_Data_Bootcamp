@@ -1,0 +1,101 @@
+Date,Monster involved,Days of Investigation,Region,Crime Type,Crime Weapon,Time of Day,Evidence Found,Criminal record,Age,Gender,Height in cm,Speed Level,Strength Level,Allergy,Favorite Food,ID
+2023-05-23,Zombie,92,swamp,assault,N/A,night,potions,No,97,F,162,14,1,sunlight,humans,2211
+2023-06-02,Ghost,39,village,vandalism,axe,night,potions,Yes,2440,F,170,63,6,pumpkin,pesto pasta,7676
+2020-01-02,Vampire,8,castle,assault,brute force,night,cloak,No,242,M,183,42,6,garlic,brain,3465
+2023-05-23,Witch,3,village,arson,pistol,day,bones,Yes,367,F,167,23,3,pumpkin,lasagna,4318
+2020-05-10,Werewolf,87,mountain,assault,axe,night,blood,Yes,182,M,184,74,9,cat hair,brain,5052
+2022-09-07,Ghost,73,village,nightly disturbance,brute force,night,cloak,Yes,2357,F,169,96,10,pumpkin,rats,9502
+2021-12-03,Zombie,57,swamp,assault,axe,night,bones,Yes,1,F,166,20,6,silver,rats,221
+2023-11-08,Werewolf,97,mountain,assault,axe,night,blood,Yes,104,F,153,93,6,cat hair,pesto pasta,137
+2023-07-13,Vampire,40,castle,assault,N/A,dusk,cloak,No,719,M,168,45,6,sunlight,brain,8504
+2020-08-11,Vampire,18,forest,assault,pistol,night,blood,No,351,F,184,41,4,sunlight,lasagna,4661
+2024-09-15,Witch,69,swamp,arson,N/A,night,cloak,No,518,F,199,27,2,hazelnut,lasagna,1689
+2022-01-24,Witch,93,forest,kidnapping,N/A,dusk,bones,Yes,619,M,160,30,2,pumpkin,brain,158
+2023-09-02,Witch,60,mountain,kidnapping,N/A,dusk,teeth,No,292,F,197,14,5,hazelnut,humans,4004
+2023-08-09,Zombie,24,swamp,murder,axe,night,potions,Yes,147,M,181,9,5,sunlight,pesto pasta,4290
+2020-03-07,Werewolf,45,forest,vandalism,N/A,night,blood,Yes,80,M,197,75,7,silver,pesto pasta,6753
+2021-09-24,Vampire,96,castle,assault,N/A,night,blood,Yes,755,F,159,27,4,silver,humans,7422
+2023-05-31,Witch,56,mountain,assault,knife,night,potions,Yes,60,M,198,25,5,silver,pesto pasta,5309
+2024-02-27,Skeleton,83,castle,nightly disturbance,knife,night,cloak,Yes,2668,M,178,18,5,silver,humans,6382
+2024-04-12,Zombie,26,forest,murder,knife,day,potions,Yes,63,M,161,12,2,cat hair,lasagna,6729
+2021-08-16,Werewolf,93,mountain,assault,knife,night,teeth,Yes,96,F,193,38,2,hazelnut,humans,6685
+2023-12-15,Witch,19,village,arson,N/A,day,cloak,No,457,M,171,15,9,hazelnut,pesto pasta,4396
+2024-06-20,Ghost,25,castle,theft,knife,dusk,potions,No,1640,M,180,39,1,cat hair,pesto pasta,3210
+2020-08-27,Zombie,95,swamp,kidnapping,brute force,night,blood,No,83,F,174,16,4,sunlight,brain,2184
+2021-08-27,Witch,29,swamp,kidnapping,brute force,day,bones,No,108,M,169,17,4,hazelnut,brain,5549
+2020-07-22,Ghost,63,village,vandalism,N/A,dawn,potions,No,376,M,199,49,8,pumpkin,lasagna,9228
+2020-10-01,Witch,35,village,arson,knife,dusk,bones,Yes,241,F,162,14,8,hazelnut,lasagna,2843
+2021-01-26,Vampire,2,village,assault,pistol,night,blood,No,437,F,167,50,6,sunlight,rats,8260
+2019-11-06,Vampire,41,castle,nightly disturbance,knife,night,cloak,Yes,394,M,157,33,7,garlic,brain,8848
+2021-01-03,Skeleton,1,mountain,arson,axe,day,cloak,Yes,999,F,179,35,5,silver,lasagna,7723
+2020-03-31,Zombie,8,mountain,kidnapping,knife,day,blood,Yes,186,M,176,10,2,cat hair,humans,6260
+2021-07-08,Ghost,12,castle,vandalism,knife,night,potions,Yes,1,F,189,32,1,sunlight,rats,2096
+2023-08-06,Skeleton,12,castle,arson,brute force,day,bones,Yes,1245,M,175,16,9,silver,rats,3541
+2023-01-27,Vampire,89,village,theft,N/A,night,cloak,Yes,771,M,160,39,6,garlic,rats,7023
+2022-08-16,Vampire,83,forest,nightly disturbance,axe,night,blood,Yes,124,M,167,39,6,garlic,rats,6390
+2024-10-21,Vampire,76,forest,nightly disturbance,pistol,night,teeth,Yes,542,F,185,28,6,silver,humans,9078
+2022-05-30,Skeleton,38,castle,assault,axe,day,cloak,No,1779,M,185,24,6,garlic,lasagna,3740
+2020-09-06,Witch,52,village,kidnapping,N/A,night,cloak,Yes,649,M,191,15,5,pumpkin,pesto pasta,6876
+2022-04-25,Werewolf,21,forest,assault,knife,night,bones,Yes,48,F,154,36,1,silver,brain,1782
+2022-05-10,Vampire,34,castle,murder,pistol,night,cloak,No,178,M,189,32,6,sunlight,rats,1045
+2023-07-03,Skeleton,31,mountain,vandalism,knife,day,bones,Yes,1114,F,184,18,4,hazelnut,lasagna,8147
+2023-03-15,Werewolf,84,mountain,assault,axe,night,bones,No,131,M,191,74,7,hazelnut,lasagna,5225
+2020-02-10,Skeleton,46,mountain,assault,axe,dawn,cloak,No,1016,F,158,34,9,hazelnut,rats,5093
+2023-04-01,Werewolf,12,forest,assault,pistol,night,teeth,Yes,81,F,164,79,8,hazelnut,pesto pasta,9821
+2021-07-28,Skeleton,43,mountain,nightly disturbance,N/A,night,cloak,Yes,1369,F,152,13,1,silver,humans,968
+2024-04-28,Ghost,25,village,vandalism,knife,dawn,potions,No,811,F,180,61,1,sunlight,lasagna,5139
+2022-04-06,Werewolf,41,forest,assault,knife,night,blood,No,144,M,198,78,7,silver,humans,8326
+2020-11-15,Skeleton,74,mountain,nightly disturbance,knife,night,cloak,Yes,1510,F,174,9,9,silver,lasagna,5464
+2021-04-25,Werewolf,3,forest,vandalism,knife,dusk,fur,No,183,M,191,64,4,cat hair,brain,5413
+2021-09-08,Zombie,90,mountain,kidnapping,N/A,night,blood,Yes,6,F,181,14,5,cat hair,brain,5231
+2021-11-05,Vampire,91,castle,theft,axe,night,blood,Yes,704,M,179,37,6,silver,brain,6127
+2024-06-05,Werewolf,6,mountain,assault,brute force,night,potions,No,67,F,167,76,7,silver,rats,1479
+2023-08-17,Skeleton,69,castle,arson,N/A,dusk,cloak,No,2071,F,162,18,4,silver,brain,5725
+2022-04-26,Zombie,75,swamp,murder,brute force,dusk,fur,No,126,M,181,15,10,sunlight,brain,6278
+2023-10-07,Ghost,64,forest,arson,knife,night,cloak,No,889,M,160,44,7,sunlight,humans,8204
+2023-05-14,Witch,67,village,arson,pistol,dusk,bones,No,789,F,192,14,5,hazelnut,lasagna,2295
+2020-08-14,Ghost,15,castle,vandalism,N/A,night,cloak,No,1,M,167,3,1,sunlight,humans,10036
+2023-03-19,Ghost,22,village,nightly disturbance,knife,night,cloak,Yes,2285,F,174,40,10,pumpkin,brain,9625
+2021-12-16,Vampire,83,castle,murder,N/A,dusk,cloak,No,651,M,187,27,4,garlic,brain,3941
+2020-05-27,Ghost,65,village,theft,knife,night,potions,Yes,2172,F,165,48,2,pumpkin,brain,2659
+2023-03-16,Ghost,87,village,nightly disturbance,brute force,night,cloak,No,3124,F,162,49,7,sunlight,humans,2653
+2023-01-14,Vampire,90,village,nightly disturbance,knife,night,blood,No,453,M,192,34,6,garlic,brain,3114
+2024-01-28,Werewolf,88,forest,assault,axe,dusk,blood,No,64,F,197,59,7,cat hair,lasagna,8442
+2023-06-18,Zombie,41,swamp,kidnapping,N/A,night,teeth,Yes,72,F,150,10,1,sunlight,pesto pasta,9479
+2024-05-09,Zombie,67,swamp,kidnapping,pistol,night,potions,No,107,F,183,14,5,garlic,pesto pasta,2002
+2020-06-19,Vampire,5,village,assault,N/A,night,blood,No,678,F,167,48,8,silver,pesto pasta,6070
+2024-06-17,Vampire,24,castle,nightly disturbance,brute force,night,blood,Yes,280,F,183,31,7,garlic,brain,1262
+2020-12-16,Witch,35,village,arson,knife,day,cloak,No,391,F,184,22,1,pumpkin,pesto pasta,8122
+2021-08-01,Skeleton,54,castle,nightly disturbance,knife,night,bones,Yes,757,M,154,22,3,pumpkin,humans,2131
+2023-05-31,Skeleton,70,forest,assault,knife,night,cloak,Yes,1075,F,171,7,2,pumpkin,humans,5270
+2024-09-21,Zombie,4,swamp,kidnapping,axe,dawn,fur,Yes,88,M,155,13,10,garlic,rats,8120
+2020-02-24,Ghost,13,village,nightly disturbance,knife,night,cloak,No,3466,M,196,49,1,pumpkin,rats,405
+2024-01-18,Werewolf,78,mountain,assault,N/A,dawn,teeth,No,144,F,162,79,6,silver,pesto pasta,1158
+2024-01-01,Ghost,93,castle,nightly disturbance,N/A,night,potions,Yes,795,M,150,36,2,pumpkin,brain,7632
+2021-05-27,Witch,72,village,kidnapping,axe,dusk,bones,Yes,605,M,153,13,6,hazelnut,rats,9618
+2023-04-07,Werewolf,92,forest,assault,pistol,night,teeth,Yes,142,F,187,71,8,silver,rats,8760
+2024-01-04,Skeleton,2,castle,vandalism,knife,dusk,cloak,No,1709,M,174,1,9,silver,rats,1861
+2023-03-06,Ghost,78,castle,arson,N/A,night,potions,Yes,1800,M,156,95,1,sunlight,pesto pasta,1909
+2021-03-15,Skeleton,76,swamp,nightly disturbance,axe,night,bones,No,1629,F,187,22,10,silver,humans,1040
+2021-03-02,Vampire,75,castle,assault,brute force,night,blood,No,517,M,150,29,4,garlic,lasagna,819
+2024-04-08,Vampire,42,castle,assault,brute force,night,cloak,No,191,F,193,33,7,garlic,pesto pasta,2785
+2024-10-05,Werewolf,90,forest,assault,N/A,night,teeth,No,77,M,189,26,6,cat hair,rats,4488
+2024-08-09,Zombie,20,forest,kidnapping,brute force,dawn,blood,Yes,130,M,194,3,5,sunlight,humans,9430
+2024-01-08,Vampire,91,mountain,assault,knife,dawn,teeth,No,680,F,191,37,6,sunlight,lasagna,403
+2021-10-20,Zombie,24,forest,murder,knife,day,bones,No,179,M,168,19,7,garlic,brain,8221
+2021-02-07,Vampire,58,castle,assault,knife,night,teeth,No,882,F,150,51,1,silver,humans,5627
+2023-05-11,Ghost,86,castle,nightly disturbance,N/A,night,potions,No,3352,M,184,42,10,sunlight,humans,1181
+2023-03-03,Vampire,24,village,nightly disturbance,knife,night,blood,No,761,M,184,42,3,sunlight,brain,8252
+2022-04-15,Witch,69,village,kidnapping,N/A,day,cloak,Yes,352,F,167,22,2,silver,humans,10044
+2020-03-28,Vampire,87,castle,assault,brute force,night,blood,Yes,575,M,170,34,7,garlic,brain,461
+2024-01-05,Vampire,1,forest,assault,axe,dusk,teeth,Yes,678,F,174,31,6,garlic,brain,1688
+2021-09-25,Witch,40,swamp,kidnapping,axe,night,teeth,Yes,278,F,163,21,3,hazelnut,humans,196
+2021-04-11,Werewolf,98,mountain,nightly disturbance,N/A,night,blood,Yes,158,M,162,49,8,sunlight,lasagna,4159
+2023-09-25,Zombie,68,swamp,kidnapping,knife,night,blood,Yes,1,M,150,18,5,pumpkin,rats,10040
+2024-04-20,Skeleton,91,castle,assault,brute force,dusk,cloak,Yes,959,F,158,29,3,silver,brain,7824
+2020-12-20,Werewolf,29,forest,assault,knife,night,blood,Yes,88,F,156,66,6,silver,pesto pasta,3125
+2023-05-02,Ghost,32,village,vandalism,pistol,dusk,cloak,No,1596,M,177,72,3,garlic,pesto pasta,5434
+2021-03-25,Witch,55,swamp,arson,knife,dusk,bones,Yes,396,F,179,16,1,hazelnut,humans,7413
+2024-03-06,Skeleton,41,mountain,vandalism,axe,dawn,bones,No,434,F,157,42,9,silver,humans,8707
+2021-04-16,Witch,89,village,theft,knife,night,potions,No,421,F,170,25,1,hazelnut,brain,3712
+2020-11-22,Skeleton,41,castle,vandalism,N/A,day,bones,No,869,M,190,19,7,garlic,humans,1642
