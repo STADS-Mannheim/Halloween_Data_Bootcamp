@@ -2,7 +2,7 @@
 
 The village, nestled between dense forests and rolling hills, is no stranger to mysterious occurrences. Over the years, crimes have become frequent—strange fires at night, eerie disturbances at dusk, and an unsettling number of kidnappings. The village has grown accustomed to living with the constant threat of danger, yet each new crime brings its own unique terror.
 
-But the crime that took place on **October 30, 2024** has left the village in a state of shock. The victim this time was none other than the mayor—a figure of authority, snatched away in broad daylight. The **bones** left behind and the **knife** used in the crime point to a dangerous entity, one with a carefully calculated plan.
+But the crime that took place on **October 30, 2025** has left the village in a state of shock. The victim this time was none other than the mayor—a figure of authority, snatched away in broad daylight. The **bones** left behind and the **knife** used in the crime point to a dangerous entity, one with a carefully calculated plan.
 
 The mayor's sudden disappearance has thrown the entire village into chaos, with fear rippling through every corner of the community. The villagers are on edge, and rumors are spreading fast.
 
